@@ -47,7 +47,7 @@ Example:
 Installation & Setup:
 
 1. Clone the repository:
-   git clone https://github.com/omar-hghr/Al-RealEstate-Advisor.git
+   git clone https://github.com/omar-hghr/AI-RealEstate-Advisor
    cd Al-RealEstate-Advisor
 2. Create a virtual environment:
    python -m venv venv
@@ -86,3 +86,4 @@ Omar Haitham
 GitHub: @omar-hghr
 
 If you find this project useful, please Star the repo!
+
